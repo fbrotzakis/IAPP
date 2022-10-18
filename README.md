@@ -12,7 +12,7 @@ __PRODUCTION_TPR__ contains the folders containing the .tpr files of each replic
 
 __ANALYSIS__ folder contains the plumed_analysis.dat file used to print the CVs of the biased N-tail side as well as the final torrie-value weight per-frame. plumed_analysis_unbiased.dat is used to print the unbiased N-tail side CVs. plumed_error.dat to write the Overlap files per frame
 
-__MEMMI_iapp.ipynb__ contains steps to do the analysis (FES, error estimate, local correlation, reampling of the structural ensemble) of MEMMI 
+__MEMMI_IAPP_example.ipynb__: contains steps to do the analysis (FES, error estimate, local correlation, reampling of the structural ensemble) of MEMMI 
 
 __Samples  of the ensemble__ without protein-hydrogens or water/ions can be found in Zenobo https://zenodo.org/record/6518554#.YnLwby8Rqhw
 
