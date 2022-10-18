@@ -13,6 +13,8 @@ Samples  of the ensemble without protein-hydrogens or water/ions can be found in
 To run MEMMI first you need to install the relevant PLUMED version: 
 
 git clone https://github.com/tlhr/plumed2.git plumed2
+
 cd plumed2
+
 git checkout emmi-bias-sem
 
