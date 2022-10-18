@@ -16,7 +16,7 @@ __MEMMI_iapp.ipynb__ contains steps to do the analysis (FES, error estimate, loc
 
 __Samples  of the ensemble__ without protein-hydrogens or water/ions can be found in Zenobo https://zenodo.org/record/6518554#.YnLwby8Rqhw
 
-__Reference__
+__References__
 
  Z. F. Brotzakis, T. Löhr, S. Truong, S. E. Hoff, M. Bonomi and M. Vendruscolo Determination of the
 structure and dynamics of the fuzzy coat of an amyloid fibril of IAPP using cryo-electron microscopy.
