@@ -9,3 +9,10 @@ ANALYSIS folder contains the plumed_analysis.dat file used to print the CVs of t
 plumed_analysis_unbiased.dat is used to print the unbiased N-tail side CVs. 
 
 Samples  of the ensemble without protein-hydrogens or water/ions can be found in Zenobo https://zenodo.org/record/6518554#.YnLwby8Rqhw
+
+To run MEMMI first you need to install the relevant PLUMED version: 
+
+git clone https://github.com/tlhr/plumed2.git plumed2
+cd plumed2
+git checkout emmi-bias-sem
+
