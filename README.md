@@ -1,5 +1,13 @@
 This repository contains the necessary topology, structure, gromacs parameter and plumed files used in this work. In particular,
 
+To run MEMMI first you need to install the relevant PLUMED version: 
+
+git clone https://github.com/tlhr/plumed2.git plumed2
+
+cd plumed2
+
+git checkout emmi-bias-sem
+
 TOPO_MDP folder containts GROMACS topology and parameter files.
 PRODUCTION containst the plumed file and the associated companion files such as an index file, data GMM file (iapp.dat),  structure.pdb file and job submission file used.
 
@@ -10,11 +18,5 @@ plumed_analysis_unbiased.dat is used to print the unbiased N-tail side CVs.
 
 Samples  of the ensemble without protein-hydrogens or water/ions can be found in Zenobo https://zenodo.org/record/6518554#.YnLwby8Rqhw
 
-To run MEMMI first you need to install the relevant PLUMED version: 
 
-git clone https://github.com/tlhr/plumed2.git plumed2
-
-cd plumed2
-
-git checkout emmi-bias-sem
 
