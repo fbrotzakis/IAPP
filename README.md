@@ -20,7 +20,8 @@ __References__
 
  Z. F. Brotzakis, T. Löhr, S. Truong, S. E. Hoff, M. Bonomi and M. Vendruscolo Determination of the
 structure and dynamics of the fuzzy coat of an amyloid fibril of IAPP using cryo-electron microscopy.
-bioRxiv, 10.1101/2022.05.29.493873, 2022.
+Biochemistry 2023, 62, 16, 2407–2416 (doi: 10.1021/acs.biochem.3c00010)
+
 
 
 
